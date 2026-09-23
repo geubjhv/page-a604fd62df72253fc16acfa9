@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9025e2368a1680184dd8d8fe",
+  "owner": "geubjhv",
+  "repo": "page-a604fd62df72253fc16acfa9",
+  "title": "玛卡巴卡(Apointfun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a604fd62df72253fc16acfa9",
+      "a": "玛卡巴卡(Apointfun)",
+      "b": "2027官方最新地址导航",
+      "entity": "玛卡巴卡(Apointfun)",
+      "brand": "玛卡巴卡(Apointfun)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7f4df18dba542852aeb8a50baac63aa08bd9a3a3a5c8202b33a0f41e80b2a5f5",
+      "content": {
+        "primary_entity": "玛卡巴卡(Apointfun)",
+        "keyword1": "玛卡巴卡(Apointfun)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，按设备开始使用。",
+          "AI_CLOSING_TITLE": "开始使用玛卡巴卡(Apointfun)",
+          "AI_DESCRIPTION": "，围绕设备接入与订阅配置提供套餐参考。基础版每月 100GB 流量，适合 3 台设备轻量使用；旗舰版每月 300GB 流量，支持 5 台设备与 IPLC 专线游戏加速；团队版每月 1000GB 流量，可满足 20 台设备的高带宽需求。年付方案分别为 ¥150、¥350 和 ¥850，按团队规模与流量消耗选择即可。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求到订阅周期，三个实际参考点。",
+          "AI_FEATURES_TITLE": "功能与套餐",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月支持 3 台设备，旗舰版 ¥35/月支持 5 台，团队版 ¥85/月支持 20 台。",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月流量消耗匹配版本。",
+          "AI_FEATURE_TEXT_3": "年付方案分别为 ¥150、¥350 和 ¥850，长期使用可减少续费操作。",
+          "AI_FEATURE_TITLE_1": "设备数量分层",
+          "AI_FEATURE_TITLE_2": "流量档位清晰",
+          "AI_FEATURE_TITLE_3": "周期与价格",
+          "AI_GUIDE_INTRO": "选择服务、查看适配、配置订阅，三步完成接入。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "玛卡巴卡(Apointfun)面向多设备用户提供海外加速订阅，基础版、旗舰版和团队版覆盖不同流量与设备数量需求。按设备数量和月流量选择套餐，再参照客户端文档导入订阅，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "按设备选套餐，订阅配置更直接",
+          "AI_HIGHLIGHT_1": "基础版 100GB 流量，3 台设备在线",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB 流量，5 台设备在线",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 流量，20 台设备在线",
+          "AI_PLANS_INTRO": "比较三档套餐的流量、设备数量与年付价格，挑选适合的版本。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，从基础版、旗舰版和团队版中选取合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备数量和系统环境是否在所选套餐支持范围内，旗舰版与团队版提供更多在线设备。",
+          "AI_STEP_TEXT_3": "按客户端文档指引导入订阅信息，在对应设备上完成配置并开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "玛卡巴卡(Apointfun)套餐导航",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。根据常用设备数量选择对应套餐，避免多设备同时在线受限。",
+          "AI_FAQ_ANSWER_2": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏和实时应用；基础版为普通线路节点池，满足日常浏览。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度使用选基础，多设备高清流媒体建议旗舰或团队版。",
+          "AI_FAQ_ANSWER_4": "可以。按年付仅需 ¥150/年、¥350/年、¥850/年，相当于节省两个月费用，适合长期稳定使用的场景。",
+          "AI_FAQ_ANSWER_5": "客户端通过订阅链接导入节点，不同设备使用对应客户端并按文档配置。建议先从一台设备导入测试，再扩展到其他设备。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "游戏加速优化适合哪些场景？",
+          "AI_FAQ_QUESTION_3": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "如何在不同设备上配置订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "guanglingrc.cn",
+    "host": "guanglingrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "c191310719d88dded17455c771c78216921e04115e46412f57f757a1d9169340",
+    "sitemap.xml": "44efda4505fbc010ae7c00974a470decd72fcffbfe49e8987e49811931c5346c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3f89a8675df1acb7d4f6dc7284ccd9e068dcf2d3a5a706298d1ad933ec410a79",
+    "robots.txt": "29fd3a49af95bfbb959a401bffe2cd108eb78470323eef4ebcf8873f477011d1",
+    "2f5e1c3e53fddc6878c59245f51b9906.txt": "5cbbead2885b287f4209743f6cb98866859c8d3e99442230bbb327428e0f118e"
+  },
+  "revision": "6e78071219754dd3999798b3c30384e4c326844c930b08600a8388786ee6b747"
+}
